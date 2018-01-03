@@ -44,7 +44,7 @@ div {
 }
 
 #contentParent {
-height: 90px;
+  height: 90px;
   border: 1px solid #DDDDDD;
     border-radius: 6px 6px 6px 6px;
     bottom: 50px;
@@ -53,12 +53,10 @@ height: 90px;
     border-radius: 6px 6px 6px 6px;
     bottom: 50px;
     left: auto;
-    margin-left: -120px;
     padding: 10px 0 0;
     position: fixed;
     text-align: center;
-    width: 90px;
-    z-index: 15;
+    z-index: 15;  
 }
 
 .responsive-columns-wrapper {
