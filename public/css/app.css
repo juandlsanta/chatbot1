@@ -43,14 +43,13 @@ div {
   display: inline-block;
 }
 
-
-
 #contentParent {
 width: 300px;
 height: 200px;
 position: static;
 top: 60px;
 left: 40px;
+  background: #f60;
 }
 
 .responsive-columns-wrapper {
