@@ -65,6 +65,10 @@ height: 100%;
 
 #chat-column-holder {
   text-align: center;
+  border:.08333rem solid transparent;
+  float:right;
+  position:relative;
+  width:342px
 }
 
 .chat-column {
