@@ -57,6 +57,8 @@ div {
     position: fixed;
     text-align: center;
     z-index: 15;  
+    width: 400;
+    height: 500;
 }
 
 .responsive-columns-wrapper {
